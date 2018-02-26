@@ -1,0 +1,6 @@
+{
+  "testMatch": [ "**/*.test.js" ],
+  "transform": {
+    "\\.js$": "react-scripts/config/jest/babelTransform"
+  }
+}

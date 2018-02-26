@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-content {
+  margin: 50px;
+}
+
+.App-maths.calculating {
+  color: grey;
+}
+
+.App-value, .App-operator, .App-input, .App-submit {
+  margin: 0 5px;
+  vertical-align: middle;
+}
+
+.App-input {
+  width: 50px;
+  text-align: center;
+}
+
+.App-error {
+  color: red;
+  font-weight: bold;
+}
