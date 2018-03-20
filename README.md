@@ -1,6 +1,6 @@
 # Mock the Back-End with Node.js
 
-This is the companion project for the [Blog Article](http://blog.scottlogic.com/2018/03/20/mock-the-backend-with-node.html).
+This is the companion project for the blog article [Mock the Back-End with Node](http://blog.scottlogic.com/2018/03/20/mock-the-backend-with-node.html).
 
 ## Run the demo application
 
