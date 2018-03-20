@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "npm-run-all -p start:ui start:mockserver",
-    "start:ui": "react-scripts start",
+    "start:ui": "set BROWSER=none&&react-scripts start",
     "start:mockserver": "nodemon ./server/server.js --watch ./server --exec babel-node --presets es2015",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
